@@ -1,13 +1,11 @@
 <template>
     <div>
-aliPay
+        nav-footer
     </div>
 </template>
 
 <script>
-
 export default {
-    name:'alipay',
-
+    name:'nav-footer'
 }
 </script>

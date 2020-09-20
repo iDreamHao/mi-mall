@@ -1,6 +1,5 @@
 <template>
     <div>
-        111'
         <NavHeader></NavHeader>
         <router-view></router-view>
         <NavFooter></NavFooter>
